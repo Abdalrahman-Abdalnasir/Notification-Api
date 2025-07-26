@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "04fd6814-a340-4027-9d7c-31ae11cde7bb",
+		"name": "Notification Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "25395258"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
